@@ -13,7 +13,7 @@ L'objectif n'était pas de développer un modèle complexe, mais de travailler s
 ## Organisation du dépôt
 
 ```text
-iris-docker/
+iris-ml-docker-redis/
 ├── train/                  # Entraînement et Dockerfiles naïf / optimisé
 ├── inference/              # Prédiction et Dockerfiles naïf / optimisé
 ├── api/                    # API FastAPI et son Dockerfile
